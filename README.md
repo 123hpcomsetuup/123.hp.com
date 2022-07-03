@@ -1,5 +1,6 @@
 # 123.hp.com
 ![123.hp.com/setup](get-started-199847725.jpg)](https://sites.google.com/view/123hpcomsetupdownload/setup)
+
 # 123.hp.com/setup
 Switch on the HP printer and computer
 
